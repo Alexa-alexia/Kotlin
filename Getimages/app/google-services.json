@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "677312418025",
+    "firebase_url": "https://get-imgs-d4726.firebaseio.com",
+    "project_id": "get-imgs-d4726",
+    "storage_bucket": "get-imgs-d4726.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677312418025:android:99a61f3005a6de87bce078",
+        "android_client_info": {
+          "package_name": "mullatoez.getimages.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677312418025-0pv9bnf2nlmrst37m4r07pe58vrt6g1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp3BTxvRo3AXzHw-zbYsQ3maTZRgfzaRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677312418025-0pv9bnf2nlmrst37m4r07pe58vrt6g1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
